@@ -1,6 +1,6 @@
-# Tashkeel-v3: Complete Training, Fine-Tuning & Architecture Manual
+# Tashkeel-v4: Complete Training, Fine-Tuning & Architecture Manual
 
-This directory contains the self-contained, reproducible pipeline to train, calibrate, evaluate, and deploy **Tashkeel-v3** (Morpheme-Aware MARBERTv2 + Linear-Chain CRF with Viterbi Sequence Decoding).
+This directory contains the self-contained, reproducible pipeline to train, calibrate, evaluate, and deploy **Tashkeel-v4** (Morpheme-Aware MARBERTv2 + Linear-Chain CRF with Viterbi Sequence Decoding).
 
 ---
 
@@ -189,7 +189,7 @@ Stage 5: Benchmark Evaluation (Sadeed & CATT) ──► Stage 6: Hugging Face Ex
 
 ### One-Click Execution:
 ```bash
-cd /mnt/models/tashkeel/tashkeel_v3_pipeline
+cd /mnt/models/tashkeel/tashkeel_v4_pipeline
 ./run_full_pipeline.sh
 ```
 
